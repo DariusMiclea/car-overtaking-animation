@@ -1,7 +1,7 @@
 # car-overtaking-animation
 c++/openGL 2d animation
 
-The first project I ever did using the freeglut library.
+The first project I ever worked on using the freeglut library.
 
 Some screenshots of the animation:
 
