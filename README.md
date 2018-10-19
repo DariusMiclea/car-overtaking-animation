@@ -5,7 +5,7 @@ The first project I ever did using the freeglut library.
 
 Some screenshots of the animation:
 
-http://prntscr.com/l83nt5 (how the anymation starts)
+http://prntscr.com/l83nt5 (how the animation starts)
   
 http://prntscr.com/l83o24 (the red car changing lanes to overtake the blue car)
 
